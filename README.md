@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aiganymsn
 - 👀 I’m interested in the hiking and yoga.
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on web projects.
 
 <!---
