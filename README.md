@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Aiganymsn
+- 👋 Hi, I’m Aiganym!
+- 🌱 Junior developer, familiar with HTML, CSS, JS, React.
 - 👀 I’m interested in the hiking and yoga.
-- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on web projects.
 
 <!---
